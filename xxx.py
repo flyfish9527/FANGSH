@@ -1,4 +1,3 @@
-2
 import pygame
 import sys
 pygame.init()
