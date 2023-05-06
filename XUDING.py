@@ -1,3 +1,4 @@
+#buggy github
 import pygame
 import sys
 pygame.init()
